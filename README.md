@@ -10,7 +10,6 @@ Flask-Ask is a `Flask extension <http://flask.pocoo.org/extensions/>`_ that make
 * `Chat on Gitter.im <https://gitter.im/johnwheeler/flask-ask/>`_
 
 ## The Basics
-===============
 
 A Flask-Ask application looks like this:
 
